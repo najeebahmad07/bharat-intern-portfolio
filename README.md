@@ -65,6 +65,6 @@ This project is used by the following companies:
 ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Wwl0Ir1OygC9pIhtph1vMgpGz4mPle22Ms7ZeVLMB7MENkLU5w5qVSGVzyayGDrPYk1C-Eg_eW0qd92oK7UjiaTakegoOOsvm55Zhzgxht2qj8nrwQf7MQ-aEw6Oe71VS7in-stEnPvN5eejrS6k8OxlfPqstKJjKTmWcgN2OBxF7ZcsS13mD4704eVL/s1913/code4.png)
 
 
-## Vie Live 
+## View Live 
 
 [![portfolio](https://i.gifer.com/XVo3.gif)](https://najeebahmad07.github.io/bharat-intern-portfolio/)
