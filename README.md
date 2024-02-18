@@ -67,4 +67,4 @@ This project is used by the following companies:
 
 ## View Live 
 
-[![portfolio](https://i.gifer.com/XVo3.gif)](https://najeebahmad07.github.io/bharat-intern-portfolio/)
+[![portfolio](https://i.stack.imgur.com/vJp6M.png)](https://najeebahmad07.github.io/bharat-intern-portfolio/)
